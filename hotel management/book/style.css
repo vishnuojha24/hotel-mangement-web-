@@ -1,0 +1,11 @@
+
+
+
+
+.img-fluid{
+    margin-top: 24px;
+    border: 2px solid black;
+    border-bottom: 23px;
+    box-sizing: border-box;
+    border-radius: 25px;
+}
